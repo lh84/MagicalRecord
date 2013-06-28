@@ -1,4 +1,3 @@
-
 # Resources
 ## Third Party Blog Entries
 The following blog entries highlight how to install and use aspects of Magical Record.
@@ -8,3 +7,4 @@ The following blog entries highlight how to install and use aspects of Magical R
 * [Super Happy Easy Fetching in Core Data](http://www.cimgf.com/2011/03/13/super-happy-easy-fetching-in-core-data/)
 * [Core Data and Threads, without the Headache](http://www.cimgf.com/2011/05/04/core-data-and-threads-without-the-headache/)
 * [Unit Testing with Core Data](http://www.cimgf.com/2012/05/15/unit-testing-with-core-data/)
+* [Magical Record and NSFetchedResultsController: Core Data Made Easy](http://blog.sigfrid.co.uk/series/magical-record-and-nsfetchedresultscontroller-core-data-made-easy/)
